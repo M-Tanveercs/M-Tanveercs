@@ -1,34 +1,17 @@
-<!-- ============================================================
-     MUHAMMAD TANVEER — GitHub Profile README
-     Aesthetic: Dark terminal × editorial code × precision grid
-     ============================================================ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,40:1a0505,100:DD0031&height=200&section=header&text=Muhammad%20Tanveer&fontSize=52&fontColor=ffffff&fontAlignY=55&desc=Full%20Stack%20Web%20Developer&descSize=18&descAlignY=75&descColor=aaaaaa&animation=fadeIn" width="100%" />
 
 <div align="center">
-
-```
-╔═══════════════════════════════════════════════════════════════════════════════╗
-║                                                                               ║
-║  ████████╗   █████╗    ███╗   ██╗  ██╗   ██╗  ███████╗  ███████╗  ██████╗   ║
-║  ╚══██╔══╝  ██╔══██╗   ████╗  ██║  ██║   ██║  ██╔════╝  ██╔════╝  ██╔══██╗  ║
-║     ██║     ███████║   ██╔██╗ ██║  ██║   ██║  █████╗    █████╗    ███████║  ║
-║     ██║     ██╔══██║   ██║╚██╗██║  ╚██╗ ██╔╝  ██╔══╝    ██╔══╝    ██╔══██║  ║
-║     ██║     ██║  ██║   ██║ ╚████║   ╚████╔╝   ███████╗  ███████╗  ██║  ██║  ║
-║     ╚═╝     ╚═╝  ╚═╝   ╚═╝  ╚═══╝    ╚═══╝    ╚══════╝  ╚══════╝  ╚═╝  ╚═╝  ║
-║                                                                               ║
-║                        FULL STACK WEB DEVELOPER                               ║
-║                                                                               ║
-╚═══════════════════════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,50:1a0a0a,100:0a0a0a&height=2&section=header" width="100%" />
 
 <br/>
 
-<div align="center">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2800&pause=1000&color=DD0031&center=true&vCenter=true&width=580&lines=Angular+%7C+React+%7C+Node.js+%7C+NestJS+%7C+TypeScript;Building+scalable%2C+user-centered+web+apps;Clean+architecture+%E2%80%A2+Strong+performance+%E2%80%A2+Great+UX;Open+to+freelance+%26+collaboration+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=800&color=DD0031&center=true&vCenter=true&multiline=true&width=600&height=80&lines=const+dev+%3D+new+FullStackDeveloper();+%F0%9F%9A%80;dev.build(%22scalable+web+applications%22);+%E2%9C%85)](https://git.io/typing-svg)
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-tanveercs/)
+[![Email](https://img.shields.io/badge/Email-DD0031?style=flat-square&logo=gmail&logoColor=white)](mailto:add-your-email-here)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=vercel&logoColor=white)](https://add-your-portfolio-link)
+[![Profile Views](https://komarev.com/ghpvc/?username=M-Tanveercs&style=flat-square&color=DD0031&label=Profile+Views)](https://github.com/M-Tanveercs)
 
 </div>
 
@@ -36,175 +19,214 @@
 
 ---
 
-<table width="100%">
-<tr>
-<td width="55%" valign="top">
+<br/>
 
-### `~/about-me` &nbsp;▸
+## 🧑‍💻 &nbsp;About Me
 
 ```typescript
-const tanveer = {
-  name     : "Muhammad Tanveer",
-  role     : "Full Stack Developer",
-  location : "Pakistan 🇵🇰",
-  focus    : [
-    "Scalable web architecture",
-    "Clean, maintainable code",
-    "Intuitive user experiences",
-  ],
-  currently: "building something awesome",
-  openTo   : ["freelance", "collaboration"],
-  funFact  : "I debug with console.log & no shame",
+const developer = {
+  name        : "Muhammad Tanveer",
+  title       : "Full Stack Web Developer",
+  location    : "Pakistan 🇵🇰",
+  expertise   : ["Angular", "React", "Node.js", "NestJS", "TypeScript", "SQL"],
+  currentWork : "Building something awesome — ask me about it!",
+  openTo      : ["Freelance Projects", "Open Source", "Collaboration"],
+  philosophy  : "Write code that your future self will thank you for.",
+  funFact     : "console.log() is my oldest friend 🐛",
 };
 ```
 
-</td>
-<td width="45%" valign="top">
+<br/>
 
-### `~/stack --verbose` &nbsp;▸
+---
 
-```bash
-$ cat stack.config.json
+<br/>
 
-{
-  "frontend"  : ["Angular", "React", "TypeScript"],
-  "backend"   : ["Node.js", "NestJS", "Express"],
-  "database"  : ["PostgreSQL", "MySQL", "SQL"],
-  "tools"     : ["Git", "Docker", "REST APIs"],
-  "language"  : ["TypeScript", "JavaScript"],
-  "superpower": "Connecting frontend <-> backend"
-}
-```
+## ⚡ &nbsp;Tech Stack
 
-</td>
-</tr>
+<div align="center">
+
+### Frontend
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### Database & DevOps
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+## 🚀 &nbsp;Featured Projects
+
+> 💡 Replace these with your real projects — then pin them to your GitHub profile!
+
+<br/>
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📦 Project One</h3>
+      <p>A short, compelling description of what this project does and why it matters. What problem does it solve?</p>
+      <p>
+        <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
+        <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
+      </p>
+      <a href="#">→ View Repository</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📦 Project Two</h3>
+      <p>A short, compelling description of what this project does and why it matters. What problem does it solve?</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+      </p>
+      <a href="#">→ View Repository</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📦 Project Three</h3>
+      <p>A short, compelling description of what this project does and why it matters. What problem does it solve?</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+      </p>
+      <a href="#">→ View Repository</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📦 Project Four</h3>
+      <p>A short, compelling description of what this project does and why it matters. What problem does it solve?</p>
+      <p>
+        <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
+        <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/SQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
+      </p>
+      <a href="#">→ View Repository</a>
+    </td>
+  </tr>
 </table>
 
----
-
-## `$ ls -la ./tech-stack`
-
-<div align="center">
-
-**── Frontend ──**
-
-![Angular](https://img.shields.io/badge/Angular-0a0a0a?style=for-the-badge&logo=angular&logoColor=DD0031)
-![React](https://img.shields.io/badge/React-0a0a0a?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-0a0a0a?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![JavaScript](https://img.shields.io/badge/JavaScript-0a0a0a?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-0a0a0a?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0a0a0a?style=for-the-badge&logo=css3&logoColor=1572B6)
-![RxJS](https://img.shields.io/badge/RxJS-0a0a0a?style=for-the-badge&logo=reactivex&logoColor=B7178C)
-
-**── Backend ──**
-
-![Node.js](https://img.shields.io/badge/Node.js-0a0a0a?style=for-the-badge&logo=node.js&logoColor=3C873A)
-![NestJS](https://img.shields.io/badge/NestJS-0a0a0a?style=for-the-badge&logo=nestjs&logoColor=E0234E)
-![Express](https://img.shields.io/badge/Express-0a0a0a?style=for-the-badge&logo=express&logoColor=FFFFFF)
-![REST API](https://img.shields.io/badge/REST_API-0a0a0a?style=for-the-badge&logo=fastapi&logoColor=009688)
-
-**── Database & DevOps ──**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a0a0a?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-![MySQL](https://img.shields.io/badge/MySQL-0a0a0a?style=for-the-badge&logo=mysql&logoColor=4479A1)
-![Docker](https://img.shields.io/badge/Docker-0a0a0a?style=for-the-badge&logo=docker&logoColor=2496ED)
-![Git](https://img.shields.io/badge/Git-0a0a0a?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=FFFFFF)
-
-</div>
+<br/>
 
 ---
-
-## `$ cat ./projects/featured.md`
-
-> Replace the placeholders below with your real projects. Pin them to your profile too!
-
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│  PROJECT ONE                                              [→ REPO]  │
-│  ─────────────────────────────────────────────────────────────────  │
-│  Short description of what this app does and the problem it solves  │
-│  Stack: Angular · NestJS · PostgreSQL · Docker                      │
-└─────────────────────────────────────────────────────────────────────┘
-
-┌─────────────────────────────────────────────────────────────────────┐
-│  PROJECT TWO                                              [→ REPO]  │
-│  ─────────────────────────────────────────────────────────────────  │
-│  Short description of what this app does and the problem it solves  │
-│  Stack: React · Node.js · Express · MySQL                           │
-└─────────────────────────────────────────────────────────────────────┘
-
-┌─────────────────────────────────────────────────────────────────────┐
-│  PROJECT THREE                                            [→ REPO]  │
-│  ─────────────────────────────────────────────────────────────────  │
-│  Short description of what this app does and the problem it solves  │
-│  Stack: TypeScript · NestJS · REST API · SQL                        │
-└─────────────────────────────────────────────────────────────────────┘
-```
-
----
-
-## `$ git log --stat --author="M-Tanveercs"`
-
-<div align="center">
-
-<a href="https://github.com/M-Tanveercs">
-  <img src="https://github-readme-stats.vercel.app/api?username=M-Tanveercs&show_icons=true&hide_title=true&theme=github_dark&hide_border=true&bg_color=0d1117&icon_color=DD0031&text_color=c9d1d9&ring_color=DD0031&include_all_commits=true&count_private=true" height="165" />
-</a>
-<a href="https://github.com/M-Tanveercs">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Tanveercs&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9&langs_count=8" height="165" />
-</a>
 
 <br/>
+
+## 📊 &nbsp;GitHub Statistics
+
+<div align="center">
+
+<a href="https://github.com/M-Tanveercs">
+  <img src="https://github-readme-stats.vercel.app/api?username=M-Tanveercs&show_icons=true&hide_title=false&theme=github_dark&hide_border=true&bg_color=0d1117&icon_color=DD0031&text_color=c9d1d9&title_color=DD0031&ring_color=DD0031&include_all_commits=true&count_private=true&rank_icon=github" height="170"/>
+</a>
+<a href="https://github.com/M-Tanveercs">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Tanveercs&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=DD0031&langs_count=8" height="170"/>
+</a>
+
+<br/><br/>
 
 <a href="https://git.io/streak-stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=M-Tanveercs&theme=github-dark-blue&hide_border=true&background=0d1117&ring=DD0031&fire=DD0031&currStreakLabel=DD0031&sideLabels=c9d1d9&dates=666e7a" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=M-Tanveercs&theme=github-dark-blue&hide_border=true&background=0d1117&ring=DD0031&fire=DD0031&currStreakLabel=DD0031&sideLabels=c9d1d9&dates=666e7a&stroke=DD003133" width="70%"/>
 </a>
 
-<br/>
+<br/><br/>
 
-<a href="https://github.com/M-Tanveercs">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=M-Tanveercs&theme=github-compact&bg_color=0d1117&color=DD0031&line=DD0031&point=ffffff&hide_border=true" width="100%" />
-</a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=M-Tanveercs&theme=github-compact&bg_color=0d1117&color=DD0031&line=DD0031&point=ffffff&hide_border=true&area=true&area_color=DD003120" width="100%" />
 
 </div>
 
+<br/>
+
 ---
 
-## `$ ping tanveer --connect`
+<br/>
+
+## 🏆 &nbsp;GitHub Trophies
 
 <div align="center">
 
-```
-> Available on the following channels:
-```
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-tanveercs/)
-[![Email](https://img.shields.io/badge/Email-DD0031?style=for-the-badge&logo=gmail&logoColor=white)](mailto:add-your-email-here)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0a0a0a?style=for-the-badge&logo=vercel&logoColor=white)](https://add-your-portfolio-link)
-
-<br/>
-
-```
-Response time : usually within 24 hours ⚡
-Status        : open to new projects    ✅
-Timezone      : PKT (UTC+5)             🕔
-```
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=M-Tanveercs&style=for-the-badge&color=DD0031&label=PROFILE+VIEWS)
+<img src="https://github-profile-trophy.vercel.app/?username=M-Tanveercs&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%" />
 
 </div>
 
+<br/>
+
 ---
+
+<br/>
+
+## 📬 &nbsp;Let's Connect
 
 <div align="center">
 
-```
-/* Thanks for visiting — let's build something great together */
-```
+<table>
+  <tr>
+    <td align="center" width="200">
+      <a href="https://www.linkedin.com/in/m-tanveercs/">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /><br/>
+        <sub>Connect on LinkedIn</sub>
+      </a>
+    </td>
+    <td align="center" width="200">
+      <a href="mailto:add-your-email-here">
+        <img src="https://img.shields.io/badge/Email-DD0031?style=for-the-badge&logo=gmail&logoColor=white" /><br/>
+        <sub>Send me a message</sub>
+      </a>
+    </td>
+    <td align="center" width="200">
+      <a href="https://add-your-portfolio-link">
+        <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" /><br/>
+        <sub>See my work</sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:DD0031&height=100&section=footer&reversal=true" width="100%" />
+<br/>
+
+> 💬 &nbsp;I'm always open to interesting conversations and new opportunities.<br/>Whether it's a project, a question, or just a hello — feel free to reach out!
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+<sub>⭐ &nbsp;If you find any of my projects useful, a star would mean a lot!</sub>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:DD0031,60:1a0505,100:0d0d0d&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%" />
 
 </div>
