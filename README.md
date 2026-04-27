@@ -233,11 +233,32 @@ const tanveer: Developer = {
 
 <br/>
 
+## 📊 &nbsp;Profile Summary
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=M-Tanveercs&theme=github_dark" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=M-Tanveercs&theme=github_dark" height="160"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=M-Tanveercs&theme=github_dark" height="160"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=M-Tanveercs&theme=github_dark" height="160"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=M-Tanveercs&theme=github_dark&utcOffset=5" height="160"/>
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
 ## 🏆 &nbsp;Trophies
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=M-Tanveercs&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" />
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=M-Tanveercs&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=4" />
 
 </div>
 
@@ -249,24 +270,12 @@ const tanveer: Developer = {
 
 ## 🐍 &nbsp;Contribution Snake
 
-> **Note:** The snake animation requires a one-time GitHub Actions setup. See the steps below.
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/M-Tanveercs/M-Tanveercs/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/M-Tanveercs/M-Tanveercs/output/github-contribution-grid-snake.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/M-Tanveercs/M-Tanveercs/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-
-</div>
-
 <details>
-<summary>⚙️ Click to see snake setup (5 minutes, one time only)</summary>
+<summary>⚙️ Enable snake animation (5 min setup)</summary>
 
 <br/>
 
-In your profile repo `M-Tanveercs/M-Tanveercs`, create the file `.github/workflows/snake.yml`:
+Create `.github/workflows/snake.yml` in your `M-Tanveercs/M-Tanveercs` repo:
 
 ```yaml
 name: Generate Snake
@@ -294,7 +303,15 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
-Then run it manually from **Actions → Generate Snake → Run workflow**. Done.
+Run it once from **Actions → Generate Snake → Run workflow**, then replace this section with:
+
+```markdown
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/M-Tanveercs/M-Tanveercs/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/M-Tanveercs/M-Tanveercs/output/github-contribution-grid-snake.svg" />
+  <img alt="snake" src="https://raw.githubusercontent.com/M-Tanveercs/M-Tanveercs/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+```
 
 </details>
 
